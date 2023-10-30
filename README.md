@@ -1,7 +1,7 @@
 # AutopwnSau
 Script para automatizar la intrusión de la máquina Sau de la plataforma de Hack The Box
 
-#How it works?
+## How it works?
 
 All you have to do is download the script and then run it.
 
